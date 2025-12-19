@@ -2,7 +2,7 @@
 
 Konu
 Singly Linked List üzerinde temel işlemlerin gerçekleştirilmesi ve zaman karmaşıklığı analizlerinin yapılması.
-
+--------
 Yapılan İşlemler
 - Liste oluşturma (Creating a List)
 - Listeyi gezme (Traversal)
